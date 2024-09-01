@@ -1,28 +1,28 @@
 # Cherax Viewer Pro
 
-**Cherax Viewer Pro** is a powerful and user-friendly web-based tool designed to simplify the workflow of Cherax script development and JSON data visualization. This tool provides an interactive environment to explore, edit, and manage JSON data structures, making it easier for developers to handle complex Cherax scripts.
+**Cherax Viewer Pro** is a versatile and intuitive web-based tool designed to enhance the development of Cherax scripts and streamline JSON data visualization. It offers an interactive platform for exploring, editing, and managing JSON data structures, making it an essential tool for developers working with complex Cherax scripts.
+
+## [Access Cherax Viewer Pro Online](https://ronnie-reagan.github.io/Cherax_Viewer_Pro/)
+
+Visit the live version of Cherax Viewer Pro [here](https://ronnie-reagan.github.io/Cherax_Viewer_Pro/) to start using it directly in your browser.
 
 ## Features
 
-- **Code View & Tree View**: Switch between a raw JSON code view and a collapsible tree view to navigate through data structures easily.
-- **Dynamic Search**: Quickly locate specific keys or values within your JSON data with real-time search, featuring match highlighting and navigation through results.
-- **Multi-Select & Clipboard Management**: Enable multi-select mode to add multiple items to the clipboard at once, and easily manage your clipboard contents.
-- **Tree Style Customization**: Choose from various tree display styles to best suit your viewing preferences.
-- **Expand/Collapse All**: Effortlessly expand or collapse all nodes in the JSON tree for a streamlined navigation experience.
-- **Download JSON**: Export your JSON data with a single click, preserving your modifications.
-- **Music Integration**: Stay focused with integrated YouTube playlists tailored for coding sessions, relaxation, and more.
-- **Help & Documentation Overlay**: Access built-in help and documentation to quickly learn how to utilize Cherax Viewer Pro's features.
+- **Code View & Tree View**: Easily switch between a raw JSON code view and a collapsible tree view for seamless navigation through data structures.
+- **Dynamic Search**: Efficiently find specific keys or values in your JSON data with real-time search capabilities, including match highlighting and easy navigation.
+- **Multi-Select & Clipboard Management**: Use multi-select mode to add multiple items to the clipboard simultaneously, and manage your clipboard contents effortlessly.
+- **Tree Style Customization**: Choose from multiple tree display styles to match your viewing preferences.
+- **Expand/Collapse All**: Quickly expand or collapse all nodes in the JSON tree for improved navigation.
+- **Download JSON**: Save your JSON data with a single click, ensuring your modifications are preserved.
+- **Music Integration**: Enhance your workflow with integrated YouTube playlists designed for coding, relaxation, and focus.
+- **Help & Documentation Overlay**: Access comprehensive help and documentation directly within the tool to maximize your productivity with Cherax Viewer Pro.
 
 ## Usage
 
-Cherax Viewer Pro is perfect for developers working with Cherax scripts and anyone who needs a versatile tool for viewing and editing JSON data. Whether you are debugging, exploring data structures, or just need a reliable JSON viewer, this tool offers the flexibility and features you need.
+Cherax Viewer Pro is ideal for developers who work with Cherax scripts or require a robust tool for JSON data manipulation. Whether debugging, exploring data structures, or needing a reliable JSON viewer, Cherax Viewer Pro provides the flexibility and functionality to meet your needs.
 
 ## How to Use
 
-1. **Clone or Download**: Clone the repository or download the `index.html` file directly.
-2. **Open Locally**: Open the `index.html` file in your browser to start using Cherax Viewer Pro.
-3. **Deploy on GitHub Pages**: Deploy the HTML file to GitHub Pages to access it anywhere online.
-
----
-
-Feel free to modify this description based on your specific needs or any additional features you plan to include!
+1. **Clone or Download**: Clone the repository or directly download the `index.html` file.
+2. **Open Locally**: Open the `index.html` file in your web browser to start using Cherax Viewer Pro immediately.
+3. **Deploy on GitHub Pages**: Deploy the HTML file on GitHub Pages to access it online from anywhere.
